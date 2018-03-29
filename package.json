@@ -1,0 +1,25 @@
+{
+  "name": "streamvideo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaiduongx26/StreamVideoChat.git"
+  },
+  "author": "Thai Duong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaiduongx26/StreamVideoChat/issues"
+  },
+  "homepage": "https://github.com/thaiduongx26/StreamVideoChat#readme",
+  "dependencies": {
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "mocha": "^5.0.5",
+    "mongoose": "^5.0.12"
+  }
+}
